@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Kztcha
+# 👋 
 
 Étudiant en informatique, j’explore la programmation à travers des projets personnels, principalement en Python. J’aime créer des interfaces web simples et fonctionnelles pour aller avec mon backend python.
 
